@@ -1,0 +1,26 @@
+[
+  {
+    "player": "Asuna",
+    "team": "100 Thieves",
+    "rol": "Duelist",
+    "main_agent": "Raze"
+  },
+  {
+    "player": "Mazino",
+    "team": "Kru",
+    "rol": "Initiator",
+    "main_agent": "Sova"
+  },
+  {
+    "player": "nAts",
+    "team": "Team Liquid",
+    "rol": "Centinel",
+    "main_agent": "Viper"
+  },
+  {
+    "player": "valyn",
+    "team": "G2",
+    "rol": "Smokes",
+    "main_agent": "Omen"
+  }
+]

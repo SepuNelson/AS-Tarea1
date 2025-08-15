@@ -1,0 +1,7 @@
+services:
+  services:
+    build: ./services
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./bbdd:/app/bbdd
