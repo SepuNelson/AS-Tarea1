@@ -34,7 +34,7 @@ def get_agent_pick_rate(name: str):
         data = json.load(f)
     
     for item in data:
-        if item["agent"].lower() == name.lower():
+        if item["name"].lower() == name.lower():
             return {"pick_rate": item["pick_rate"]}
 
     raise HTTPException(status_code=404, detail="Agent not found")
