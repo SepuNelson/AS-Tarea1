@@ -1,8 +1,17 @@
 services:
-  fastapi:
-    build: ./services
+  fastapi-1:
+    build: ./services/service-1
     ports:
       - "8000:8000"
+    volumes:
+      - ./bbdd:/app/bbdd
+    networks:
+      - monitor-net
+
+  fastapi-2:
+    build: ./services/service-2
+    ports:
+      - "8001:8001"
     volumes:
       - ./bbdd:/app/bbdd
     networks:

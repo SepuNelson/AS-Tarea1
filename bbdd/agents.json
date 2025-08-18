@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Jett",
+    "role": "Duelista",
+    "pick_rate": 21.5
+  },
+  {
+    "name": "Reyna",
+    "role": "Duelista",
+    "pick_rate": 15.2
+  },
+  {
+    "name": "Phoenix",
+    "role": "Duelista",
+    "pick_rate": 4.8
+  },
+  {
+    "name": "Yoru",
+    "role": "Duelista",
+    "pick_rate": 2.5
+  },
+  {
+    "name": "Raze",
+    "role": "Duelista",
+    "pick_rate": 18.0
+  },
+  {
+    "name": "Iso",
+    "role": "Duelista",
+    "pick_rate": 1.3
+  },
+  {
+    "name": "Sage",
+    "role": "Centinela",
+    "pick_rate": 12.3
+  },
+  {
+    "name": "Cypher",
+    "role": "Centinela",
+    "pick_rate": 14.7
+  },
+  {
+    "name": "Killjoy",
+    "role": "Centinela",
+    "pick_rate": 19.8
+  },
+  {
+    "name": "Chamber",
+    "role": "Centinela",
+    "pick_rate": 5.6
+  },
+  {
+    "name": "Sova",
+    "role": "Iniciador",
+    "pick_rate": 16.2
+  },
+  {
+    "name": "Skye",
+    "role": "Iniciador",
+    "pick_rate": 14.1
+  },
+  {
+    "name": "Fade",
+    "role": "Iniciador",
+    "pick_rate": 10.8
+  },
+  {
+    "name": "Breach",
+    "role": "Iniciador",
+    "pick_rate": 6.9
+  },
+  {
+    "name": "Gekko",
+    "role": "Iniciador",
+    "pick_rate": 8.4
+  },
+  {
+    "name": "Brimstone",
+    "role": "Controlador",
+    "pick_rate": 7.5
+  },
+  {
+    "name": "Omen",
+    "role": "Controlador",
+    "pick_rate": 15.9
+  },
+  {
+    "name": "Viper",
+    "role": "Controlador",
+    "pick_rate": 13.7
+  },
+  {
+    "name": "Astra",
+    "role": "Controlador",
+    "pick_rate": 3.9
+  },
+  {
+    "name": "Harbor",
+    "role": "Controlador",
+    "pick_rate": 2.4
+  }
+]
